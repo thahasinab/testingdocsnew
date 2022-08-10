@@ -10,8 +10,6 @@
 
 import json
 from pickle import NONE
-from tkinter import E
-from tkinter.tix import Tree
 from ...__subject import Subject
 from ..._params import *
 from ..._api_request_handler import *

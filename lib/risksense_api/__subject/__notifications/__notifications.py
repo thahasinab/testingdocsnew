@@ -9,7 +9,6 @@
 ******************************************************************************************************************* """
 
 import json
-from tkinter import N
 from turtle import ontimer
 from .. import Subject
 from ..._params import *

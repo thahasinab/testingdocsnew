@@ -12,7 +12,6 @@ from dataclasses import field
 import json
 import time
 import concurrent.futures
-from tkinter.tix import Tree
 import progressbar
 from ...__subject import Subject
 from ..._params import *
