@@ -1,5 +1,5 @@
-Risksense API (:py:mod:`risksense_api.__subject.__users.__users`)
-=================================================================
+Users (:py:mod:`risksense_api.__subject.__users.__users`)
+*********************************************************
 
 .. automodule:: risksense_api.__subject.__users.__users
    :members:
