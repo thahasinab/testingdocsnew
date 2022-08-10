@@ -1,0 +1,24 @@
+Set Default Client id
+*********************
+.. currentmodule:: risksense_api.risksense_api.RiskSenseApi
+.. autofunction::  set_default_client_id
+
+Get Default Client id
+*********************
+.. currentmodule:: risksense_api.risksense_api.RiskSenseApi
+.. autofunction::  get_default_client_id
+
+Refresh Clients
+****************
+.. currentmodule:: risksense_api.risksense_api.RiskSenseApi
+.. autofunction::  refresh_my_clients
+
+Update the thread numbers
+*************************
+.. currentmodule:: risksense_api.risksense_api.RiskSenseApi
+.. autofunction::  update_num_threads
+
+Instantiate Subjects
+*************************
+.. currentmodule:: risksense_api.risksense_api.RiskSenseApi
+.. autofunction::  _instantiate_subjects
